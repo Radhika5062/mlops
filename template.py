@@ -31,7 +31,7 @@ list_of_files = [
     "tox.ini",
     "experiment/experiments.ipynb",
     "src/logger/logger.py",
-    "src/exception/exception"
+    "src/exception/exception.py"
 ]
 
 
